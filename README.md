@@ -135,15 +135,5 @@ align-self: baseine;
 * Flex Shrink ---> To decrease the Flex depends on the screen size .
   
   > Just browser about these properties in the youtube or read some docs . Bcs I didnt cover about these in the repository
-### CLICK THE URL To Understand :
 
- <a href="html/intro.html">Intro</a><br />
-<a href="html/intro.html">Flex Direction</a><br />
-<a href="html/intro.html">Flex Wrap</a><br />
-
-<a href="html/intro.html">Justify Content</a><br />
-<a href="html/intro.html">Align Content</a><br />
-<a href="html/intro.html">Align Self</a><br />
-<a href="html/intro.html">Flex Grow</a><br />
-<a href="html/intro.html">Flex Shrink</a><br />
 # I hope you like it . :)
